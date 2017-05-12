@@ -1,6 +1,6 @@
 This repository contains the code associated to the paper:
 
-*Angular velocity integration in a fly heading circuit*
+[*Angular velocity integration in a fly heading circuit*](http://dx.doi.org/10.7554/eLife.23496)
 
 Daniel B. Turner-Evans\*¹, Stephanie Wegener\*¹, Hervé Rouault¹,
 Romain Franconville¹, Tanya Wolff¹, Johannes D. Seelig², Shaul Druckmann¹,
